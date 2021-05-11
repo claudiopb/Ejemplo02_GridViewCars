@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejemplo02_GridViewCar</string>
+    <string name="desc">imagen</string>
+    <string name="textview">Título del coche</string>
+    <string name="desc_car">Descripción</string>
+    <string name="precio">Precio</string>
+    <string name="artago">Artículo agotado</string>
+</resources>
